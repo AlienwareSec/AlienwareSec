@@ -43,8 +43,8 @@
 <!--<h3 align="left">• AWS Certified Cloud Practitioner.<br> • Ambassador @InfosecWriteups.<br> • Technical Head CyberSecurity @OpenSourceChandigarh</h3>-->
 <h3 align="left">
   • AWS Certified Cloud Practitioner.<br>
-  • Ambassador <a href="https://infosecwriteups.com/"> @InfosecWriteups.</a><br>
-  • Technical Head CyberSecurity <a href="https://www.linkedin.com/company/open-source-chandigarh/?originalSubdomain=in"> @OpenSourceChandigarh</a>
+  • Ambassador <a href="https://infosecwriteups.com/" target="_blank"> @InfosecWriteups.</a><br>
+  • Technical Head CyberSecurity <a href="https://www.linkedin.com/company/open-source-chandigarh/?originalSubdomain=in" target="_blank"> @OpenSourceChandigarh.</a>
 </h3>
 
 
