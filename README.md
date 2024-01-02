@@ -17,10 +17,7 @@
 </div>
 
 ###
-
-
-<a href='https://postimg.cc/BjdWXW6v' target='_blank'><img align="right" height="150" src='https://i.postimg.cc/d00JNwcG/cyber-attack.gif' border='0' alt='cyber-attack'/></a>
-
+<img align="right" height="150" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f7c9d8-a913-4273-847f-705be41395df/da6cgrv-8a5163be-c552-4c13-af14-c3cce6029e63.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZjdjOWQ4LWE5MTMtNDI3My04NDdmLTcwNWJlNDEzOTVkZlwvZGE2Y2dydi04YTUxNjNiZS1jNTUyLTRjMTMtYWYxNC1jM2NjZTYwMjllNjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.p6VJ8-viWxDIf1frWa_HpWeJ9gi8tEIfGfTtUD2Pf5w"  />
 ###
 
 <div align="left">
