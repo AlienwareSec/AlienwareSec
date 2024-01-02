@@ -17,7 +17,7 @@
 </div>
 
 ###
-<img align="right" height="150" src="https://github.com/AlienwareSec/AlienwareSec/blob/main/cyber-attack-.gif"  />
+<img align="right" height="150" src="https://media.licdn.com/dms/image/C5112AQF9a-hvzWn8uA/article-cover_image-shrink_600_2000/0/1574956586430?e=2147483647&v=beta&t=gJtNG2yyNA55hJa-1EQ_20QewBtVaz1oMq20GX4e_ic"  />
 ###
 
 <div align="left">
