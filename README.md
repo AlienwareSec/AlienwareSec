@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋🏻! My name is Pawan and I'm a Cloud Security Guy.☁️</h2>
+<h1 align="left">Hi 👋🏻! My name is Pawan and I'm a Cloud Security Guy.☁️</h1>
 
 ###
 
@@ -39,11 +39,11 @@
 
 ###
 
-<h4 align="left">• AWS Certified Cloud Practitioner.<br> • Ambassador @InfosecWriteups.<br> • Technical Head CyberSecurity @OpenSourceChandigarh</h4>
+<h3 align="left">• AWS Certified Cloud Practitioner.<br> • Ambassador @InfosecWriteups.<br> • Technical Head CyberSecurity @OpenSourceChandigarh</h3>
 
 ###
 
-<h3 align="left">Achievements🏆</h3>
+<h2 align="left">Achievements🏆</h2>
 
 ###
 
@@ -51,7 +51,7 @@
 
 ###
 
-<h3 align="left">Skills⚙️</h3>
+<h2 align="left">Skills⚙️</h2>
 
 ###
 
