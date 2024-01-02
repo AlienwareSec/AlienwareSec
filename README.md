@@ -18,7 +18,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.pwc.com/content/dam/pwc/mt/en/services/cyber-security/cyber-attack-.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
