@@ -17,7 +17,9 @@
 </div>
 
 ###
-<img align="right" height="250" src="https://gizmodo.com.au/wp-content/uploads/2014/04/02/660693891607912107.gif"  />
+<!-- <img align="right" height="250" src="https://gizmodo.com.au/wp-content/uploads/2014/04/02/660693891607912107.gif"  /> -->
+<img align="right" height="250" src="https://www.pwc.com/content/dam/pwc/mt/en/services/cyber-security/cyber-attack-.gif"  />
+
 ###
 
 <div align="left">
