@@ -63,6 +63,6 @@ Tryhackme.</a><br>• 4x Tryhackme Certificates.</p>
 
 ###
 
-<p align="left"><b>• Cloud - </b>AWS IAM, CloudTrail, well architectured framework, Aurora,RedShift, EFS, ECS, EFS, RDS, EKSand many more.<br><b>• Network pentesting/VAPT – </b>BufferOverflow, Metasploit Framework,Nessus, Mimi Katz, Netcat, Hydra,Nmap, Wireshark, Socat, Akagi,Win/LinPeas, OSINT, Social Engineering,and other common security tools.<br><b>• Web Application Security– </b>Manual WAPT, OWASP Top 10.<br>Understanding of tools like BurpSuite, ffuf, sqlmap, Amass, Dirsearch,Sublist3r and other common tools for Web Application Security.</p>
+<p align="left"><b><u>• Cloud - </u></b>AWS IAM, CloudTrail, well architectured framework, Aurora,RedShift, EFS, ECS, EFS, RDS, EKSand many more.<br><u><b>• Network pentesting/VAPT – </b></u>BufferOverflow, Metasploit Framework,Nessus, Mimi Katz, Netcat, Hydra,Nmap, Wireshark, Socat, Akagi,Win/LinPeas, OSINT, Social Engineering,and other common security tools.<br><u><b>• Web Application Security– </b></u>Manual WAPT, OWASP Top 10.<br>Understanding of tools like BurpSuite, ffuf, sqlmap, Amass, Dirsearch,Sublist3r and other common tools for Web Application Security.</p>
 
 ###
