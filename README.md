@@ -54,7 +54,8 @@
 
 ###
 
-<p align="left">• Certified Practical Ethical Hacker.<br>• Successfully Hacked And Secured Chitkara University. <br>• Hacked into 50+ Portswigger labs.<br>• Solved over 100 rooms on Tryhackme<br>• 4x Tryhackme Certificates</p>
+<p align="left">• Certified Practical Ethical Hacker.<br>• Successfully Hacked And Secured Chitkara University. <br>• Hacked into 50+ Portswigger labs.<br>• Solved over 100 rooms on <a href="https://tryhackme.com/p/AlienwareSec" target="_blank">
+Tryhackme</a><br>• 4x Tryhackme Certificates</p>
 
 ###
 
